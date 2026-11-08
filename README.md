@@ -7,7 +7,7 @@ I'm interested in univalent foundations, category theory, the semantics of type 
 
 ## Projects
 
-- **[rijke-intro-to-hott](https://github.com/ben-dickinson01/rijke-intro-to-hott)**: a formalisation in Agda of Egbert Rijke's *Introduction to Homotopy Type Theory*, chapter by chapter, including the exercises. It covers identity types, equivalences, the fundamental theorem of identity types, the structure identity principle, truncation levels, function extensionality, propositional truncations and image factorizations.
+- **[rijke-intro-to-hott](https://github.com/ben-dickinson01/rijke-intro-to-hott)**: a formalisation in Agda of Egbert Rijke's *Introduction to Homotopy Type Theory*, chapter by chapter, including the exercises. It covers identity types, equivalences, the fundamental theorem of identity types, the structure identity principle, truncation levels, function extensionality, propositional truncations and image factorisations.
 - **[cwfs](https://github.com/ben-dickinson01/cwfs)**: categories with families in Agda (`--without-K`, `--safe`), following Castellan, Clairambault and Dybjer: the set model, Π-types as extra structure, and unityped CwFs.
 
 ## Currently
