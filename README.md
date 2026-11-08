@@ -1,7 +1,7 @@
 # Ben Dickinson
 
 First-class MMath graduate from Durham University (2024), preparing for a PhD in homotopy type theory.
-I'm interested in univalent foundations, category theory, the semantics of type theory, and formalising mathematics in Agda.
+I'm interested in univalent mathematics, the interplay between homotopy type theory and category theory, the semantics of type theory, and formalisation in Agda.
 
 **Looking for PhD positions starting September/October 2027 (or earlier).** Based near Liverpool, UK, and open to relocating, within Europe or internationally.
 
@@ -14,11 +14,12 @@ I'm interested in univalent foundations, category theory, the semantics of type 
 
 - Continuing through Rijke: finite types, the univalence axiom, set quotients and beyond.
 - Extending `cwfs`, starting with Σ-types.
+- Reading *The Univalence Principle* (Ahrens, North, Shulman and Tsementzis), and writing signatures and generalised algebraic theories for structures such as categories with families.
+- Working through Emily Riehl's *Category Theory in Context*.
 
 ## Background
 
 - **Master's project:** *Persistence Modules: The Isometry Theorem and Multiparameter Persistence*, supervised by Jeffrey Giansiracusa. It studies persistence modules as functors, with a reconstruction of Bauer and Lesnick's proof of the isometry theorem.
-- Worked through Emily Riehl's *Category Theory in Context*.
 - Some Lean experience, from working through *Mathematics in Lean*.
 
 ## Contact
